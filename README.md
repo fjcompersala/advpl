@@ -4,7 +4,7 @@ Repositório para estudos da linguagem AdvPL.
 
 ## **Índice**
 
-- [Materiais](https://github.com/fjcompersala/advpl)
+- [Materiais](https://github.com/fjcompersala/advpl/tree/main/materiais)
 
 - [Fundamentos](https://github.com/fjcompersala/advpl)
 
